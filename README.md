@@ -31,8 +31,13 @@ Android Navigation Drawer application using Material Design.
 4. Run the application on an emulator or physical device.
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/889a9325-b91a-4197-b6b7-827498ee92a5" width="250" alt="Screenshot 1" />
+<img src="https://github.com/user-attachments/assets/d5e211e8-b4ee-4c39-89b7-9f430297c2fe" width="250" alt="Screenshot 2" />
+<img src="https://github.com/user-attachments/assets/1bd2a6cb-a23f-43d9-87f1-59ccd743ee64" width="250" alt="Screenshot 3" />
+<img src="https://github.com/user-attachments/assets/8fb02d08-561a-457a-b606-41190588a893" width="250" alt="Screenshot 4" />
+<img src="https://github.com/user-attachments/assets/8b5019d7-c0fd-4256-a28c-2c8b2d6bd052" width="250" alt="Screenshot 5" />
+<img src="https://github.com/user-attachments/assets/b9a480fb-9298-4094-860b-09dedb07539a" width="250" alt="Screenshot 6" />
 
-*(Place screenshots here)*
 
 ## Author
 
